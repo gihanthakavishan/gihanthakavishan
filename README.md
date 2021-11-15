@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **B.Sc(H0ns) in software engineering.**
+- 🌱 I’m currently learning **B.Sc(Hons) in software engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
