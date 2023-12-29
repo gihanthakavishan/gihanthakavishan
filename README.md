@@ -8,6 +8,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **B.Sc(Hons) in software engineering.**
+- 🔭 I’m currently working on Reactjs frontend a responsive gymnasium application.
+- 🌱 I’m currently practising on ReactJs, HTML, CSS, JavaScript and Python.
+- ✨ I'm in LinkedIn and Medium as well, so keep in touch with me to read interesting technical articles.
+- 📫 How to reach me:gihanthakavishan@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +32,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
